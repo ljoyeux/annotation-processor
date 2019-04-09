@@ -1,0 +1,1 @@
+Sample code showing how to force Transactional annotation on spring bean when she is using a crudrepository
